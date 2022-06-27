@@ -7,7 +7,7 @@
 - Used MySQL db
 - PHP Unit Testcase is written for product list and product create
 
-## Implemenated Files
+## Implemented Files
 - Products related login are in product controller -> Product Interface -> product Repository ->product model
 - Offer related login are in Offer controller -> Offer Interface -> Offer Repository ->Offer model
 - Transaction related login are in Transaction controller -> Transaction Interface -> Transaction Repository ->Transaction model
